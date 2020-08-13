@@ -1,3 +1,6 @@
 function divide(){
   
 }
+let square = () => {
+  
+}
