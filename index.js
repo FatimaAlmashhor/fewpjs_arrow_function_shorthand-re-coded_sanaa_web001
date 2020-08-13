@@ -4,6 +4,6 @@ function divide(){
 let square = () => {
   
 }
-let add = () => {
-  
+let add = (a , b ) => {
+   return a+b ;
 }
